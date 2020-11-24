@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import "./scss/bootstrap.scss"
-import {BrowserRouter as Router} from "react-router-dom"
+import {HashRouter as Router} from "react-router-dom"
 import { combineReducers, createStore } from "redux"
 import { ToDoReducer, tokenReducer} from "./redux/reducers"
 import {Provider } from "react-redux"
