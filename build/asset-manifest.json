@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todo.github.io/static/css/main.5cae05dc.chunk.css",
+    "main.js": "/todo.github.io/static/js/main.7beaab83.chunk.js",
+    "main.js.map": "/todo.github.io/static/js/main.7beaab83.chunk.js.map",
+    "runtime-main.js": "/todo.github.io/static/js/runtime-main.ef633b56.js",
+    "runtime-main.js.map": "/todo.github.io/static/js/runtime-main.ef633b56.js.map",
+    "static/js/2.2da1e5f0.chunk.js": "/todo.github.io/static/js/2.2da1e5f0.chunk.js",
+    "static/js/2.2da1e5f0.chunk.js.map": "/todo.github.io/static/js/2.2da1e5f0.chunk.js.map",
+    "static/js/3.8297c3db.chunk.js": "/todo.github.io/static/js/3.8297c3db.chunk.js",
+    "static/js/3.8297c3db.chunk.js.map": "/todo.github.io/static/js/3.8297c3db.chunk.js.map",
+    "index.html": "/todo.github.io/index.html",
+    "static/css/main.5cae05dc.chunk.css.map": "/todo.github.io/static/css/main.5cae05dc.chunk.css.map",
+    "static/js/2.2da1e5f0.chunk.js.LICENSE.txt": "/todo.github.io/static/js/2.2da1e5f0.chunk.js.LICENSE.txt",
+    "static/js/3.8297c3db.chunk.js.LICENSE.txt": "/todo.github.io/static/js/3.8297c3db.chunk.js.LICENSE.txt",
+    "static/media/beep-07.250aa10d.mp3": "/todo.github.io/static/media/beep-07.250aa10d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef633b56.js",
+    "static/js/2.2da1e5f0.chunk.js",
+    "static/css/main.5cae05dc.chunk.css",
+    "static/js/main.7beaab83.chunk.js"
+  ]
+}
