@@ -30,7 +30,7 @@ function Home() {
                     <p>This app was created using react and redux.</p>
                     <span className="d-flex">
                         <p className="mr-2">Back End:</p>
-                        <a href="https://github.com/ccent123/todo-react-w-auth">Source</a>
+                        <a href="https://github.com/cacenteno/todo-backend">Source</a>
                     </span>
                 </div>
             </div>
