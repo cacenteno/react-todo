@@ -22,7 +22,7 @@ function Home() {
                     <p>This app was created using react and redux.</p>
                     <span className="d-flex">
                         <p className="mr-2">Front End:</p>
-                        <a href="https://github.com/ccent123/todo-react-w-auth">Source</a>
+                        <a href="https://github.com/cacenteno/react-todo/tree/master">Source</a>
                     </span>
                 </div>
                 <div className="col-sm">
