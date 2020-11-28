@@ -18,10 +18,9 @@ This app was developed to showcase my full-stack web development skills
 - - Ability to add, remove, edit and reorder To Do List
 - - Countdown timer
 ## Features to be added
-- -Sign up form validation
 - -Persisted token to enable users to resume session upon app reload
-- -Separate To Do list from Timer (to prevent timer reset)
-## Backend
+- -Error reporting
+## Backend-
 ## Author
 Cristian A. Centeno
 Cristian@ayakarecords.com
